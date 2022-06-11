@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/border_bottom.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/circle1.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/circle5.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_label.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_like.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_menu.xml" value="0.17" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_new.xml" value="0.165" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_new_24.xml" value="0.17" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_non_like.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/ic_search.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/new_mail.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/rounded_textview1.xml" value="0.1495" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/drawable/rounded_textview2.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/layout/mail_layout.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioWorkspace/MailView/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/action_bar_background.xml" value="0.1" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/circle.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/circle1.xml" value="0.102" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/circle3.xml" value="0.102" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/circle_new_mail.xml" value="0.1" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/ic_label.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/ic_non_like.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/ic_search.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/new_mail.xml" value="0.1" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/rounded_textview.xml" value="0.167" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/rounded_textview1.xml" value="0.102" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/rounded_textview2.xml" value="0.1345" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/rounded_textview3.xml" value="0.1345" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/drawable/rounded_textview4.xml" value="0.1345" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/layout/mail_layout.xml" value="0.2" />
+        <entry key="..\:/Users/phamd/git/AndroidHomework/MailView/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
